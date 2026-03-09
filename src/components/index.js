@@ -1,0 +1,7 @@
+export {default as Navbar} from './Navbar.jsx'
+export {default as Hero} from './Hero.jsx'
+export {default as Services} from './Services.jsx'
+export {default as OurWork} from './OurWork.jsx'
+export {default as Team} from './Team.jsx'
+export {default as Contact} from './Contact.jsx'
+export {default as Footer} from './Footer.jsx'
