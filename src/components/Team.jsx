@@ -41,9 +41,9 @@ function Team() {
     <section className="py-16" id="our-team">
       <div className="container mx-auto px-4">
         {/* Team Title */}
-        <div className="space-y-4 text-center">
-          <h1 className="text-4xl text-gray-900 font-bold mt-10">Our Creative Team</h1>
-          <p className="text-lg text-gray-600">
+        <div className="space-y-2 md:space-y-4 text-center">
+          <h1 className="text-2xl sm:text-3xl md:text-4xl text-gray-900 font-bold mt-10">Our Creative Team</h1>
+          <p className="text-xs sm:text-md md:text-lg text-gray-600">
             An elite group of the best digital marketing experts.
           </p>
         </div>

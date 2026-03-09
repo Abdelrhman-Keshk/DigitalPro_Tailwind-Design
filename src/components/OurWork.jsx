@@ -34,8 +34,8 @@ function OurWork() {
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
           {ourWorkData.map((item) => (
             <div key={item.id} className="text-center space-y-3">
-              <div className="font-bold text-6xl text-white">{item.count}</div>
-              <div className="text-blue-100 text-xl">{item.title}</div>
+              <div className="font-bold text-4xl md:text-6xl text-white">{item.count}</div>
+              <div className="text-blue-100 text-lg md:text-xl">{item.title}</div>
             </div >
           ))}
         </div>
