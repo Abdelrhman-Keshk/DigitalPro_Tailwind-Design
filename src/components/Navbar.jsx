@@ -26,7 +26,7 @@ function Navbar() {
               <a href="#contact" className="font-medium text-gray-700 hover:text-blue-600 transition">Contact Us</a>
             </div>
 
-            {/* Right Side: CTA + Mobile Toggle */}
+            {/* Right Side: Nav Button + Mobile Toggle */}
             <div className="flex items-center gap-4">
               <button
                 className="

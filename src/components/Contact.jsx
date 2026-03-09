@@ -6,7 +6,7 @@ function Contact() {
       <div className="container mx-auto px-4 py-16 text-white">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           {/* Contact Form */}
-          <div className="bg-gray-800 p-8 rounded-2xl">
+          <div className="bg-gray-800 py-8 px-4 md:p-8 rounded-2xl">
             <h2 className="font-bold text-2xl mb-6">Contact Us</h2>
             <form className="space-y-6">
               <input type="text" placeholder="Full Name"
